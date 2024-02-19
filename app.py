@@ -1,5 +1,5 @@
 from flask import Flask, request
-from user_similarity_calculator_app import db_readers
+from user_similarity_optimism_app import db_readers
 import os
 from dotenv import load_dotenv
 
