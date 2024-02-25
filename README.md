@@ -2,6 +2,7 @@
 Tool to calculate users similarity on Optimism blockchain
 
 It's part of user_similarity_optimism functionality
+![architecture](http://dl3.joxi.net/drive/2024/02/25/0016/0232/1081576/76/fcf7b0a8f8.jpg)
 
 This module is an API server which allows 2 functions:
 - update similarity data from provided Google Cloud Storage blob
