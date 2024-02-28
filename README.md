@@ -53,7 +53,7 @@ sudo docker run -it -p <server port>:5000 --env-file <path to .env file> <image 
 *To run locally* (but this works only for Linux) 
 
 ```
-sudo docker run -it -p <server port>:5000 --env-file <path to .env file with host 127.0.0.1> --network=="host" <image tag>
+sudo docker run -it -p <server port>:5000 --env-file <path to .env file with host 127.0.0.1> --network="host" <image tag>
 ```
 
 More details on [docker options](https://docs.docker.com/engine/reference/commandline/run/#publish)
